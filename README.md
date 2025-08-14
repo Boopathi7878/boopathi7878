@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on: **Open Source AI & Data Science Projects**
 - 🤔 I’m looking for help with: **Scaling ML models for production**
 - 💬 Ask me about: **Python, AI/ML, and automation**
-- 📫 How to reach me: **boopathi.codes@gmail.com**
+- 📫 How to reach me: **poobathikumarelect@gmail.com**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: *I can debug faster with coffee in hand ☕*
 
